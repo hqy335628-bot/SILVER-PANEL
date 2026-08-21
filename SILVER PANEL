@@ -1,13 +1,13 @@
 [
     {
         "device_id": "d205d337e2c240be",
-        "key": "MMDSILVER66",
+        "key": "MMDSILVER1",
         "expirydate": "31-12-2028",
         "Allowoffline": true
     },
     {
         "device_id": "d205d337e2c240be",
-        "key": "MMDSILVER",
+        "key": "",
         "expirydate": "31-12-9999",
         "Allowoffline": false
     }
